@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 640" fill="none">
+<defs><linearGradient id="land" x1="90" y1="200" x2="600" y2="600" gradientUnits="userSpaceOnUse"><stop stop-color="#366eea"/><stop offset="1" stop-color="#102b84"/></linearGradient><linearGradient id="roof"><stop stop-color="#e8f3ff"/><stop offset="1" stop-color="#7aaaff"/></linearGradient><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#739ffd"/><stop offset="1" stop-color="#3458b6"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5"/></filter><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#8fb5ff" stroke-opacity=".12"/></pattern></defs>
+<ellipse cx="375" cy="490" rx="270" ry="105" fill="#062068" opacity=".4"/>
+<path d="m52 360 320-184 303 175-321 186Z" fill="url(#land)" stroke="#6599ff"/><path d="m52 360 302 177 321-186v24L354 561 52 384Z" fill="#112c82" stroke="#4576d4"/>
+<path d="m65 360 307-174 290 165-308 177Z" fill="url(#grid)"/>
+<g stroke="#91eaff" stroke-width="3"><path d="m163 359 91 53 116-67 90 51 126-72"/><path d="m255 412 1 52 97 57"/><path d="m369 345-1-74 73-41"/></g>
+<g stroke="#62caff" stroke-width="10" opacity=".35" filter="url(#glow)"><path d="m163 359 91 53 116-67 90 51 126-72"/></g>
+<g><path d="m248 279 126-73 151 87-127 74Z" fill="url(#roof)"/><path d="m248 279 150 88v102l-150-87Z" fill="url(#wall)"/><path d="m398 367 127-74v103l-127 73Z" fill="#264997"/>
+<path d="m269 278 105-61 129 74-106 62Z" fill="#c4ddff" stroke="#5986d4"/>
+<g fill="#4c78c7" stroke="#e2f1ff"><path d="m302 271 27-15 26 15-27 16Z"/><path d="m341 249 27-15 26 15-27 16Z"/><path d="m346 296 27-15 26 15-27 16Z"/><path d="m385 274 27-15 26 15-27 16Z"/></g>
+<g stroke="#c4e8ff" stroke-width="5"><path d="m269 314 106 62m-106-43 106 62m-106-43 106 62m-106-43 106 62"/><path d="m416 378 89-52m-89 72 89-52m-89 72 89-52"/></g><path d="m281 306 18 10v86l-18-10Z" fill="#294993"/></g>
+<g><path d="m133 342 59-34 58 34-60 35Z" fill="#c4ddff"/><path d="m133 342 57 35v46l-57-33Z" fill="#6088df"/><path d="m190 377 60-35v46l-60 35Z" fill="#274993"/><g stroke="#d5ecff" stroke-width="4"><path d="m145 361 32 18m-32-7 32 18m-32-7 32 18"/></g></g>
+<g stroke="#e2f1ff" stroke-linecap="round" stroke-linejoin="round"><path d="M156 304V173" stroke-width="7"/><circle cx="156" cy="171" r="8" fill="#7acaff" stroke-width="3"/><path d="m156 162 4-69 8 8-7 61m-13 9-60 31 2 10 62-34m11-2 54 39-1-13-48-32" fill="#c2deff" stroke-width="3"/><path d="m549 281 1-101" stroke-width="5"/><circle cx="550" cy="178" r="6" fill="#7acaff"/><path d="m550 172 3-52 6 6-5 47m-10 6-45 23 1 8 47-26m9-3 40 29-1-10-36-24" fill="#c2deff" stroke-width="2"/></g>
+<g stroke="#81c5ff"><path d="m457 431 55-32 71 41-55 32Z" fill="#153a8a" stroke-width="2"/><path d="m471 423 71 41m-57-49 71 41m-57-49 71 41m-101-15 55-32m-31 46 55-32"/><path d="m457 431v17m71 24v17m55-49v17" stroke-width="3"/></g>
+<g fill="#80d7ff"><circle cx="255" cy="412" r="6"/><circle cx="460" cy="396" r="6"/><circle cx="368" cy="271" r="5"/></g>
+<g font-family="Segoe UI,Arial,sans-serif"><rect x="405" y="108" width="211" height="56" rx="14" fill="#123b9e" stroke="#5387e9"/><circle cx="437" cy="136" r="4" fill="#8ce7ff"/><text x="451" y="142" fill="#fff" font-size="17">75 MW · Connected</text><rect x="52" y="455" width="206" height="56" rx="14" fill="#123b9e" stroke="#5387e9"/><text x="155" y="489" fill="#fff" font-size="17" text-anchor="middle">Built for what’s next</text></g>
+</svg>
