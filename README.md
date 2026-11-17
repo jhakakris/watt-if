@@ -2,6 +2,8 @@
 
 Watt If helps a data-center developer choose an energy portfolio for a 75 MW campus in Williamson County, Texas, over a 120-month horizon. You set a **cost ceiling** ($/MWh) and a **carbon ceiling** (kg CO2/MWh) plus hard requirements. The tool returns the **earliest opening month** that meets both, offers three qualifying plans (earliest, cheapest, cleanest), and shows every plan hour by hour.
 
+**Live site: [watt-if-xi.vercel.app](https://watt-if-xi.vercel.app)**
+
 The campus is a fictional benchmark. Costs are in constant 2023 USD.
 
 ## How it works
